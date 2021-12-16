@@ -5,7 +5,7 @@
 ![status](https://dev.discordprofiles.me/badge/status/853742693577392178?simple=true)
 ![playing](https://dev.discordprofiles.me/badge/playing/853742693577392178)
 ![vscode](https://dev.discordprofiles.me/badge/vscode/853742693577392178)
-[![spotify](https://dev.discordprofiles.me/badge/spotify/)](https://dev.discordprofiles.me/openspotify/853742693577392178)
+[![spotify](https://dev.discordprofiles.me/badge/spotify/853742693577392178)](https://dev.discordprofiles.me/openspotify/853742693577392178)
 
 Discord:
 
