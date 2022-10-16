@@ -4,9 +4,9 @@
 Discord:
 
 ![status](https://dev.discordprofiles.me/badge/status/852852031110774786?simple=true)
-![playing](https://dev.discordprofiles.me/badge/playing/853742693577392178)
-![vscode](https://dev.discordprofiles.me/badge/vscode/853742693577392178)
-[![spotify](https://dev.discordprofiles.me/badge/spotify/853742693577392178)](https://dev.discordprofiles.me/openspotify/852852031110774786)
+![playing](https://dev.discordprofiles.me/badge/playing/852852031110774786)
+![vscode](https://dev.discordprofiles.me/badge/vscode/852852031110774786)
+[![spotify](https://dev.discordprofiles.me/badge/spotify/852852031110774786)](https://dev.discordprofiles.me/openspotify/852852031110774786)
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852852031110774786)](https://discord.com/users/852852031110774786)
 
